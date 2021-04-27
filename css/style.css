@@ -7,7 +7,23 @@
 /* inzio box*/
 
 .box{
+    width: 100%;
     height: 100vh;
+    position: relative;
+}
+
+.scarpa, .titolo-scarpa{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50% , -50%);
+}
+
+h1{
+    text-align: center;
+    font-size: 40px;
+    text-transform: uppercase;
+    color: yellow;
 }
 
 /* fine box*/
@@ -17,6 +33,7 @@
 .box-1{
     background-color: red;
 }
+
 
 /* fine formattazione box scarpa-1*/
 
