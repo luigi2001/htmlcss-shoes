@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* inzio box*/
+
+.box{
+    height: 100vh;
+}
+
+/* fine box*/
+
+/* inzio formattazione box scarpa-1*/
+
+.box-1{
+    background-color: red;
+}
+
+/* fine formattazione box scarpa-1*/
+
+.box-2{
+    background-color: green;
+}
+
+.box-3{
+    background-color: yellow;
+}
